@@ -1,6 +1,6 @@
 {
   "name": "can-sort-object",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Sort object keys recursively",
   "homepage": "http://canjs.com",
   "repository": {
