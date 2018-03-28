@@ -1,5 +1,7 @@
 # can-sort-object
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-sort-object.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/canjs/can-sort-object.svg?branch=master)](https://travis-ci.org/canjs/can-sort-object)
 
 Sort object keys recursively
