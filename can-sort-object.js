@@ -5,6 +5,9 @@ function comparator(a, b) {
 }
 
 module.exports = function sort(obj) {
+    if(canReflect.isPrimitive(obj)) {
+        return obj;
+    }
     var out;
     if (canReflect.isListLike(obj)) {
         out = [];
