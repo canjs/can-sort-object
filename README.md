@@ -5,15 +5,9 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/canjs/can-sort-object/blob/master/LICENSE)
 [![npm version](https://badge.fury.io/js/can-sort-object.svg)](https://www.npmjs.com/package/can-sort-object)
 [![Travis build status](https://travis-ci.org/canjs/can-sort-object.svg?branch=master)](https://travis-ci.org/canjs/can-sort-object)
-[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/canjs/can-sort-object?branch=master&svg=true)](https://ci.appveyor.com/project/matthewp/can-sort-object)
-[![Coverage status](https://coveralls.io/repos/github/canjs/can-sort-object/badge.svg?branch=master)](https://coveralls.io/github/canjs/can-sort-object?branch=master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-sort-object.svg)](https://greenkeeper.io/)
 
 Sort object keys recursively
-
-## Documentation
-
-Read the [can-sort-object API docs on CanJS.com](https://canjs.com/doc/can-sort-object.html).
 
 ## Changelog
 
