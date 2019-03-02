@@ -1,32 +1,22 @@
 # can-sort-object
 
-[![Build Status](https://travis-ci.org/canjs/can-sort-object.svg?branch=master)](https://travis-ci.org/canjs/can-sort-object)
+[![Join our Slack](https://img.shields.io/badge/slack-join%20chat-611f69.svg)](https://www.bitovi.com/community/slack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join our Discourse](https://img.shields.io/discourse/https/forums.bitovi.com/posts.svg)](https://forums.bitovi.com/?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/canjs/can-sort-object/blob/master/LICENSE)
+[![npm version](https://badge.fury.io/js/can-sort-object.svg)](https://www.npmjs.com/package/can-sort-object)
+[![Travis build status](https://travis-ci.org/canjs/can-sort-object.svg?branch=master)](https://travis-ci.org/canjs/can-sort-object)
+[![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-sort-object.svg)](https://greenkeeper.io/)
 
 Sort object keys recursively
 
-## Usage
+## Changelog
 
-### ES6 use
+See the [latest releases on GitHub](https://github.com/canjs/can-sort-object/releases).
 
-With StealJS, you can import this module directly in a template that is autorendered:
+## Contributing
 
-```js
-import plugin from 'can-sort-object';
-```
+The [contribution guide](https://github.com/canjs/can-sort-object/blob/master/CONTRIBUTING.md) has information on getting help, reporting bugs, developing locally, and more.
 
-### CommonJS use
+## License
 
-Use `require` to load `can-sort-object` and everything else
-needed to create a template that uses `can-sort-object`:
-
-```js
-var plugin = require("can-sort-object");
-```
-
-### Standalone use
-
-Load the `global` version of the plugin:
-
-```html
-<script src='./node_modules/can-sort-object/dist/global/can-sort-object.js'></script>
-```
+[MIT](https://github.com/canjs/can-sort-object/blob/master/LICENSE)
